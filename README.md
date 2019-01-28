@@ -1,7 +1,7 @@
 # Deepak_Assignment2
 synchronized database with 2 websites
 
-http://deepakakeoapi1.herokuapp.com
+http://deepakakeoapi1.herokuapp.com  and 
 http://deepakakeoapi2.herokuapp.com
 
 Get Api for website 1.    http://deepakakeoapi1.herokuapp.com/employees/
