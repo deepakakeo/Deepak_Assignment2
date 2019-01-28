@@ -8,7 +8,7 @@ Get Api for website 1.    http://deepakakeoapi1.herokuapp.com/employees/
 Get Api for website 2.    http://deepakakeoapi2.herokuapp.com/employees/
 
 Post Api for website 1.   http://deepakakeoapi1.herokuapp.com/addemp/
-Post Api for website 1.   http://deepakakeoapi2.herokuapp.com/addemp/
+Post Api for website 2.   http://deepakakeoapi2.herokuapp.com/addemp/
 
 
 
